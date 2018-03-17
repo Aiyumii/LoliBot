@@ -1,0 +1,29 @@
+{
+  "name": "lolibot",
+  "version": "3.0.0",
+  "description": "A discord bot made to do many tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicksWorld/BotWorld.git"
+  },
+  "keywords": [
+    "Discord",
+    "bot",
+    "rewrite"
+  ],
+  "author": "NicksWorld#7453",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicksWorld/BotWorld/issues"
+  },
+  "homepage": "https://github.com/NicksWorld/BotWorld#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "opus": "0.0.0"
+  },
+  "devDependencies": {}
+}
